@@ -1,0 +1,8 @@
+github.com/golang-cz/devslog v0.0.15 h1:ejoBLTCwJHWGbAmDf2fyTJJQO3AkzcPjw8SC9LaOQMI=
+github.com/golang-cz/devslog v0.0.15/go.mod h1:bSe5bm0A7Nyfqtijf1OMNgVJHlWEuVSXnkuASiE1vV8=
+github.com/lmittmann/tint v1.1.2 h1:2CQzrL6rslrsyjqLDwD11bZ5OpLBPU+g3G/r5LSfS8w=
+github.com/lmittmann/tint v1.1.2/go.mod h1:HIS3gSy7qNwGCj+5oRjAutErFBl4BzdQP6cJZ0NfMwE=
+github.com/phsym/console-slog v0.3.1 h1:Fuzcrjr40xTc004S9Kni8XfNsk+qrptQmyR+wZw9/7A=
+github.com/phsym/console-slog v0.3.1/go.mod h1:oJskjp/X6e6c0mGpfP8ELkfKUsrkDifYRAqJQgmdDS0=
+github.com/sgrumley/lib/logger v0.0.0-20250925114205-9456ed8e7401 h1:xH8jGRd3di3csImCk7KqLKc9Ru4xLzFYS6V/WdLzYUs=
+github.com/sgrumley/lib/logger v0.0.0-20250925114205-9456ed8e7401/go.mod h1:34MmWOrEVpR+KIqX0o+JKhG6jOu+ANAE0LpYHMHfXAE=
