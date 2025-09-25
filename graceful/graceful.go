@@ -9,7 +9,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/sgrumley/lib/pkg/logger"
+	"github.com/sgrumley/lib/logger"
 )
 
 func ListenAndServe(ctx context.Context, server *http.Server, opts ...HandleExitOption) error {
